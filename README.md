@@ -17,3 +17,18 @@
    - Model
    - Application
 4. Trends
+
+## Models
+1. LLM
+2. CV
+3. NLP
+4. Audio
+
+## AI Tools
+1. Text
+2. Picture
+3. Video
+4. Other
+
+## Practice
+1. GPTs
