@@ -1,6 +1,5 @@
 # AI-Learning
 
-## AI-Learning
 🎉 This repository stores my learnings about AI  
 
 ## 📚 Table of Contents
@@ -30,5 +29,10 @@
 3. Video
 4. Other
 
-## Practice
+## Project
 1. GPTs
+   - Tutorial
+   - [InterviewCoach](https://chat.openai.com/g/g-J9gan1hJo-interviewbot)
+   - [TravelPal](https://chat.openai.com/g/g-3ZUqpPuYw-travelpal).
+
+
