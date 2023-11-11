@@ -9,7 +9,7 @@
 4. [💻 Practice]
 
 ## Basics
-1. Definition
+1. [Definition](Basics/Definition.md)
 2. Industry Overview
    - Data
    - Infra
@@ -33,6 +33,6 @@
 1. GPTs
    - Tutorial
    - [InterviewCoach](https://chat.openai.com/g/g-J9gan1hJo-interviewbot)
-   - [TravelPal](https://chat.openai.com/g/g-3ZUqpPuYw-travelpal).
+   - [TravelPal](https://chat.openai.com/g/g-3ZUqpPuYw-travelpal)
 
 
