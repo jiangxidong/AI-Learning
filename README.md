@@ -31,7 +31,7 @@
 
 ## Project
 1. GPTs
-   - [Tutorial](Projects/GPTs Tutorial.md)
+   - [Tutorial](Projects/GPTs_Tutorial.md)
    - [InterviewCoach](https://chat.openai.com/g/g-J9gan1hJo-interviewbot)
    - [TravelPal](https://chat.openai.com/g/g-3ZUqpPuYw-travelpal)
 
