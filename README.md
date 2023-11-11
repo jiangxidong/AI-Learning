@@ -1,6 +1,6 @@
 # AI-Learning
 
-🎉 This repository stores my learnings about AI  
+🎉 This repository stores my peronal learnings on AI  
 
 ## 📚 Table of Contents
 1. [✍️ Basics]
