@@ -6,7 +6,7 @@
 1. [[✍️ Basics]](Basics)
 2. [[🎓 Models]](Models)
 3. [🎯 AI Tools]
-4. [[💻 Practice]](Project)
+4. [[💻 Projects]](Projects)
 
 ## Basics
 1. [Definition](Basics/Definition.md)
@@ -29,7 +29,7 @@
 3. Video
 4. Other
 
-## Project
+## Projects
 1. GPTs
    - [Tutorial](Projects/GPTs_Tutorial.md)
    - [InterviewCoach](https://chat.openai.com/g/g-J9gan1hJo-interviewbot)
