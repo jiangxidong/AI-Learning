@@ -10,7 +10,7 @@
 
 ## Basics
 1. [Definition](Basics/Definition.md)
-2. Industry Overview
+2. [Industry Overview](Industry.md)
    - Data
    - Infra
    - Model
