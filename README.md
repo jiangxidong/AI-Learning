@@ -3,10 +3,10 @@
 🎉 This repository stores my peronal learnings on AI  
 
 ## 📚 Table of Contents
-1. [✍️ Basics]
-2. [🎓 Models]
+1. [[✍️ Basics]](Basics)
+2. [[🎓 Models]](Models)
 3. [🎯 AI Tools]
-4. [💻 Practice]
+4. [[💻 Practice]](Project)
 
 ## Basics
 1. [Definition](Basics/Definition.md)
